@@ -2,7 +2,7 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-## Bonjour !! 👋
+# Bonjour !! 👋
 
 _________
 👨‍🎓 Je termine actuellement une formation de Data Analyst chez Openclassrooms  
