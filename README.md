@@ -4,9 +4,9 @@
 
 ### Bonjour ! 👋
 
-----
+_________
 👨‍🎓 Je termine actuellement une formation de Data Analyst chez Openclassrooms  
-💡 Je souhaite occuper un poste de data analyst dans le domaine de l'énergie  
+💡 Je souhaite occuper un poste de Data Analyst dans le domaine de l'énergie  
 📧 Me contacter: jordan.91540@hotmail.fr  
 <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> Se connecter avec moi: https://www.linkedin.com/in/jordanleclerc2
 
